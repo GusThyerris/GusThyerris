@@ -4,7 +4,7 @@
 - Desenvolvimento de Sistemas 📚
 - Sou apaixonado por tecnologia 📡
 - Estudando Java 💻
-- Busco sempre me atualizar 🔌
+- Buscando evulução 🔌
 <br/>
 <div align="center" styles="display: flex>
   <a href="https://github.com/gusThyerris">
