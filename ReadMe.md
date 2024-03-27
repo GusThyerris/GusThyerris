@@ -2,7 +2,7 @@
 ## Olá, mundo! Eu sou o Gustavo Thyerris 🖐
 
 - Desenvolvimento de Sistemas 📚
-- Sou apaixonado por tecnologia 📡
+- Apaixonado por tecnologia 📡
 - Estudando Java 💻
 - Buscando evulução 🔌
 <br/>
